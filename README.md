@@ -9,7 +9,7 @@
 
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=fff)](#quick-start)
 [![No client](https://img.shields.io/badge/needs-no%20client%2C%20no%20Chunky-3ddc84)](#why-not-chunky)
-[![License: Apache-2.0](https://img.shields.io/badge/License-Apache--2.0-blue.svg)](LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 Turn `.mca` region files into pictures of the build: still frames from any angle,
 an orbit clip, or a build that grows in the order a script placed it.
@@ -86,4 +86,4 @@ wrong colour, and fall back to a keyword guess — wood, quartz, foliage, wool, 
 
 ## License
 
-Apache-2.0.
+MIT.
